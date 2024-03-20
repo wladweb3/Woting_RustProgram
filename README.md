@@ -1,2 +1,2 @@
-# bookish-octo-rotary-phone
-Woting_RustProgram
+# Woting_RustProgram
+Simply Rust Program
